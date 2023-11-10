@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ozand/project_5/project_5.sim/sim_1/synth/timing/xsim/FIR_TB_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DFF
+INFO: [VRFC 10-311] analyzing module DFF_0
+INFO: [VRFC 10-311] analyzing module DFF_1
+INFO: [VRFC 10-311] analyzing module FIR_Filter
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ozand/project_5/project_5.srcs/sim_1/new/FIR_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIR_TB
+WARNING: [VRFC 10-3380] identifier 'Address' is used before its declaration [C:/Users/ozand/project_5/project_5.srcs/sim_1/new/FIR_TB.v:50]

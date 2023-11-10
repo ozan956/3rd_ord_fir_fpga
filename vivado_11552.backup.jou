@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Jan 10 10:07:56 2023
+# Process ID: 11552
+# Current directory: C:/Users/ozand/Desktop/3017 Project/CSE3017_PROJECT
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20928 C:\Users\ozand\Desktop\3017 Project\CSE3017_PROJECT\CSE3017_PROJECT.xpr
+# Log file: C:/Users/ozand/Desktop/3017 Project/CSE3017_PROJECT/vivado.log
+# Journal file: C:/Users/ozand/Desktop/3017 Project/CSE3017_PROJECT\vivado.jou
+# Running On: DESKTOP-AFJAC9R, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 17010 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/ozand/Desktop/3017 Project/CSE3017_PROJECT/CSE3017_PROJECT.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config {C:/Users/ozand/Desktop/3017 Project/CSE3017_PROJECT/CSE3017_PROJECT.srcs/sim_1/imports/project_5/FIR_TB_behav.wcfg}
+source FIR_TB.tcl
+run 1 us
+close_sim
+launch_simulation
+open_wave_config {C:/Users/ozand/Desktop/3017 Project/CSE3017_PROJECT/CSE3017_PROJECT.srcs/sim_1/imports/project_5/FIR_TB_behav.wcfg}
+source FIR_TB.tcl
+run 1 us
+close_sim
