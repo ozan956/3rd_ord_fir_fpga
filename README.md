@@ -1,4 +1,4 @@
-# 3RD ORDER MOVING AVERAGE (FIR) FILTER IMPLEMENTATION ON FPGA
+# 3rd Order Moving Average(FIR) Filter Implementation On FPGA
 A third order moving average FIR filter is a type of digital filter that is commonly used
 in signal processing applications. It is designed to smooth out noise or unwanted fluctuations
 in a signal by taking the average of the current sample and a specified number of previous
